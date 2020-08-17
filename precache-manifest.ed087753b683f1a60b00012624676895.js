@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dd2086d2f7dd4f5738835a56459aaa8",
+    "revision": "088f99b33a4d4880847895181f792f6e",
     "url": "/hiromiakita/index.html"
   },
   {
