@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hiromiakita/precache-manifest.95c5734b1b768bcc860fe9b0f5d1a7fd.js"
+  "/hiromiakita/precache-manifest.ed6e1b849322483d5f2bb766d1528e18.js"
 );
 
 self.addEventListener('message', (event) => {
