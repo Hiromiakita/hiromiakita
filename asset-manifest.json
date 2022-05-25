@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hiromiakita/static/css/main.35d4b7e7.css",
-    "main.js": "/hiromiakita/static/js/main.6ac116dd.js",
-    "static/js/787.f3844124.chunk.js": "/hiromiakita/static/js/787.f3844124.chunk.js",
-    "index.html": "/hiromiakita/index.html",
-    "main.35d4b7e7.css.map": "/hiromiakita/static/css/main.35d4b7e7.css.map",
-    "main.6ac116dd.js.map": "/hiromiakita/static/js/main.6ac116dd.js.map",
-    "787.f3844124.chunk.js.map": "/hiromiakita/static/js/787.f3844124.chunk.js.map"
+    "main.css": "/static/css/main.35d4b7e7.css",
+    "main.js": "/static/js/main.bce39e10.js",
+    "static/js/787.f3844124.chunk.js": "/static/js/787.f3844124.chunk.js",
+    "index.html": "/index.html",
+    "main.35d4b7e7.css.map": "/static/css/main.35d4b7e7.css.map",
+    "main.bce39e10.js.map": "/static/js/main.bce39e10.js.map",
+    "787.f3844124.chunk.js.map": "/static/js/787.f3844124.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35d4b7e7.css",
-    "static/js/main.6ac116dd.js"
+    "static/js/main.bce39e10.js"
   ]
 }
